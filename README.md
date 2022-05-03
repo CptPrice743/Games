@@ -1,2 +1,2 @@
-## What is MarioPythonGame?
-I have created this game for my school project. This is my first ever game that is created by me. So, I decided that I will keep developing it.
+## What is Games?
+These games are created by me. MarioPythonGame was created as a part of my school project. But now I have decided to keep making new games and keep developing them.
